@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #ranking {
+    background-color: #fff;
+  }
+  
+  #ranking {
+    background-color: #fff;
+    height: 100%;
+  }
+  
+  #ranking .city-item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  #ranking .p-3 {
+    background-color: #f8f9fa;
+  }
+  
+  #ranking h4 {
+    font-weight: bold;
+  }
+  
+  .row.align-items-stretch {
+    display: flex;
+  }
+  
+  .h-100 {
+    height: 100%;
+  }
+  
+  #ranking .border {
+    border-width: 2px;
+    border-color: #6c757d;
+  }
+  
+
+  
+  #ranking h4 {
+    font-weight: bold;
+  }
+  
+  
+  .restaurant-card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .restaurant-card {
+    text-align: center;
+    max-width: 200px;
+  }
+  

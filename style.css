@@ -8,10 +8,10 @@ body {
 
 #ranking {
   background-color: #fff;
-  height: 100%;
 }
 
 #ranking .city-item {
+  background-color: #fff;
   border: 1px solid #ccc;
   border-radius: 5px;
   font-size: 1rem;
@@ -20,6 +20,7 @@ body {
 #ranking .p-3 {
   background-color: #f8f9fa;
 }
+
 
 #ranking h4 {
   font-weight: bold;
@@ -38,13 +39,6 @@ body {
   border-color: #6c757d;
 }
 
-
-
-#ranking h4 {
-  font-weight: bold;
-}
-
-
 .restaurant-card img {
   width: 100px;
   height: 100px;
@@ -56,4 +50,6 @@ body {
   max-width: 200px;
 }
 
-  
+.bg-custom {
+  background-color: #123456;
+}
